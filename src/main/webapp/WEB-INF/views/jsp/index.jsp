@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Gcube Technologies 2019</p>
+		<p>&copy; Gcube Technologies 2022</p>
 	</footer>
 </div>
 
