@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To My World, Marathahalli, Banglore.</h2>
+			<h2>Welcome To GScube Technologies, Marathahalli, Banglore.</h2>
 			<h3>Contact @ +91+7032537642</h3>
 		</div>	
 	</div>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Gcube Technologies 2022</p>
+		<p>&copy; GScube Technologies 2022</p>
 	</footer>
 </div>
 
